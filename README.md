@@ -30,8 +30,7 @@ Semantic search implementation using embeddings.
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/yourusername/dotnet-ai-experiments.git
-cd dotnet-ai-experiments
+git clone https://github.com/lukafuna/dotnet-ai-experiments.git
 ```
 
 ### 2. Pull required Ollama models
