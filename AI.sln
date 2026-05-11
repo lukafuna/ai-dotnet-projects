@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OllamaBasic", "OllamaBasic\OllamaBasic.csproj", "{DF04202E-5591-4130-B04B-C07D4710C072}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatGPT", "ChatGPT\ChatGPT.csproj", "{47A837FE-BAE9-4D44-A671-D133C917B032}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SemanticSearch", "SemanticSearch\SemanticSearch.csproj", "{B55F476C-3B54-4E09-A11E-C02C06408F0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF04202E-5591-4130-B04B-C07D4710C072}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF04202E-5591-4130-B04B-C07D4710C072}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF04202E-5591-4130-B04B-C07D4710C072}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF04202E-5591-4130-B04B-C07D4710C072}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47A837FE-BAE9-4D44-A671-D133C917B032}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47A837FE-BAE9-4D44-A671-D133C917B032}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47A837FE-BAE9-4D44-A671-D133C917B032}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47A837FE-BAE9-4D44-A671-D133C917B032}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B55F476C-3B54-4E09-A11E-C02C06408F0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B55F476C-3B54-4E09-A11E-C02C06408F0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B55F476C-3B54-4E09-A11E-C02C06408F0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B55F476C-3B54-4E09-A11E-C02C06408F0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
