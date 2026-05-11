@@ -87,9 +87,9 @@ while (true)
                 candidate.Embedding.Vector.Span, userEmbedding.Vector.Span)
         })
         .OrderByDescending(match => match.Similarity)
-        .Take(3);
+        .Take(5);
 
-    Console.WriteLine("\nTop matching blog post titles:");
+    Console.WriteLine("\nTop matching topics:");
     foreach (var match in topMatches)
     {
         Console.WriteLine($"Similarity: {match.Similarity:F4} - {match.Text}");
